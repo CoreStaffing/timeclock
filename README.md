@@ -10,4 +10,4 @@ To run the project locally:
 
 `npm install`
 
-`expo start`
+`exp start`

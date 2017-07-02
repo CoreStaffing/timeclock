@@ -11,7 +11,6 @@ import Colors from '../constants/Colors';
 /*Auth Screens*/
 import SplashScreen from '../screens/auth/SplashScreen';
 import LoginScreen from '../screens/auth/LoginScreen';
-import ForgetScreen from '../screens/auth/ForgetScreen';
 
 /*App Flow*/
 export default TabNavigator(
